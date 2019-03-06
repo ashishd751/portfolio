@@ -1,0 +1,31 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Ashish Deshpande Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishd751/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "developer",
+    "design",
+    "javascript",
+    "css",
+    "react",
+    "bootstrap",
+    "core",
+    "ui"
+  ],
+  "author": "Ashish Deshpande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishd751/portfolio/issues"
+  },
+  "homepage": "https://github.com/ashishd751/portfolio#readme"
+}
