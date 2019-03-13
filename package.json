@@ -1,7 +1,29 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "description": "Ashish Deshpande - Full-Stack Web Developer Portfolio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishd751/portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "web",
+    "developer",
+    "design",
+    "javascript",
+    "css",
+    "react",
+    "bootstrap",
+    "core",
+    "ui"
+  ],
+  "author": "Ashish Deshpande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishd751/portfolio/issues"
+  },
+  "homepage": "https://github.com/ashishd751/portfolio#readme",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
